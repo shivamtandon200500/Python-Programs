@@ -3,7 +3,7 @@ from pygame import mixer
 pygame.init()
 mixer.init()
 class student:
-    name1="Carry"
+    name1="Tandon"
     name2="200 Rupee k chaka"
     pass
 carry=student()
