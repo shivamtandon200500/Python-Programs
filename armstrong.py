@@ -10,7 +10,7 @@ def check(num):
     temp=num
     while num>0:
         if(temp==dig(num)):
-            print("ss",dig(num))
+            print("kittu",dig(num))
             break
         else:
             num=num+1
